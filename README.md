@@ -5,23 +5,23 @@
 ### Part I: Introduction to Linux Programming Interface
 
  ####   Chapter 1: Overview of the Linux Programming Interface
-*         1.1 History of UNIX and Linux
-*         1.2 Key Features of the Linux Programming Interface
-*         1.3 Comparison with Other Operating Systems
-*         1.4 Overview of the Book
+* 1.1 History of UNIX and Linux
+* 1.2 Key Features of the Linux Programming Interface
+* 1.3 Comparison with Other Operating Systems
+* 1.4 Overview of the Book
  ####  Chapter 2: Basic Concepts and Terminology
-*        2.1 System Calls
-*        2.2 Library Functions
-*        2.3 Standard Input and Output
-*        2.4 Error Handling
-*        2.5 Files and Directories
+* 2.1 System Calls
+* 2.2 Library Functions
+* 2.3 Standard Input and Output
+* 2.4 Error Handling
+* 2.5 Files and Directories
  ####  Chapter 3: System Programming Concepts
-*        3.1 Processes and Threads
-*        3.2 Memory Management
-*        3.3 Signals
-*        3.4 Time and Timers
-*        3.5 Users and Groups
-*        3.6 Permissions and Access Control
+* 3.1 Processes and Threads
+* 3.2 Memory Management
+*  3.3 Signals
+* 3.4 Time and Timers
+* 3.5 Users and Groups
+* 3.6 Permissions and Access Control
 
 Part II: File I/O: The Universal I/O Model
 
