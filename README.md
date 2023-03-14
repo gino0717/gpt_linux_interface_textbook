@@ -121,3 +121,6 @@
 * 26.1 Using Multiple IPC Mechanisms
 * 26.2 Advanced IPC Techniques with Shared Memory
 * 26.3 Advanced IPC Techniques with Sockets
+
+
+本課文與目錄由chatGPT產生，並由人類小幫手挑選或增加提示以讓內容盡量對標坊間課堂所使用的標準課本
