@@ -46,7 +46,7 @@
 * 8.2 Symbolic and Hard Links
 * 8.3 Monitoring File Changes with inotify()
 
-Part III: Processes and Threads
+### Part III: Processes and Threads
 
 ####  Chapter 9: Processes Overview
 * 9.1 Process Creation
